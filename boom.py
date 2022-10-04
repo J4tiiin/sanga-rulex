@@ -35,7 +35,10 @@ npl=str(input(" Enter your np last line :  "))
 aa= "<3 __________ <3  Us insan Ka Sath Kabhii Na Chhodna ~ Jinkii Duniiya Siirf Tum Ho =)  ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD <3 3:) ~ 0:) (y)"
 
 
-dd= "<3 __________<3 Han Yeh Bilkul Sach Tha =) ,      Maiin Tumhe Khone Se Darta Tha =) , ____________ <3     ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
+ss= ":* _______________ 0:) Tu Chahe Kitni Bhi Takleef De  ~  Sukoon Tere Pass Hi Milta Haii  =) ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD <3 3:) ~ 0:) (y)"
+
+
+dd= "<3 __________ <3 Han Yeh Bilkul Sach Tha =) Maiin Tumhe Khone Se Darta Tha =) , ____________ <3     ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
 
 
 ff= "O:) _________ <3 Ye Liife Kii Kuch Bate BHii Kiitni Ajib Haii Na, Jiis Pal Roye The , Vo Yad Kar Ke Hassi Aati Haii Aj , Or Jo Tiime Hase The Vo Yaad Kar K Aaj Rona Aata Haii , ____________ <3     ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
@@ -44,7 +47,7 @@ ff= "O:) _________ <3 Ye Liife Kii Kuch Bate BHii Kiitni Ajib Haii Na, Jiis Pal 
 gg= "3:) __________ <3 Waqt Ne Majboor Kar Diiya Haii  ,     Nahii To Aj Bhii Tumhe Utna Hii Pyar Karte Haii ,    Jiitna Pahle Karte The , =)       ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
 
 
-hh= ":* __________ <3 Mere Maut Kii Khabar Use Mat Dena , Mere Dosto , Kahii Vo iis Khushii Me Pagal Na Ho Jaye , =)  ___________ <3    ~{{ 3:) (^^^) O:) ₹Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
+hh= ":* __________ <3 Mere Maut Kii Khabar Use Mat Dena , Mere Dosto , Kahii Vo iis Khushii Me Pagal Na Ho Jaye , =)  ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
 
 
 jj= ":) __________ <3 Narajgi Sabdo Se HoniI Chahiye ,   Diil Se Nahii , =)  ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
@@ -74,22 +77,22 @@ bb= "O:) _____________ <3 Hum Toh Bane Hi The Tabaah Hone Ke Liye =) ) ,       T
 nn= "(Y) ________________ <3 Woh Muskan Thi Kahin Kho Gayi  *:        Aur Main Jazbat Tha Kahin Bikhar Gaya. =) )   ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3 (Y)"
 
 
-mm= "3:) __________ <3 Kitabein Bhi Bilkul Meri Tarah Hain O:)     ,  Alfaz Se Bharpur Magar Khamosh =) )  ___________ <3    ~{{ 3:) (^^^) O:) Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
+mm= "3:) __________ <3 Kitabein Bhi Bilkul Meri Tarah Hain O:)     ,  Alfaz Se Bharpur Magar Khamosh =) )  ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
 
 
-ww= "3:) __________ <3 Zindagi Badi Ajeeb Si Ho Gayi Hai =) ) ,       Jo Musafir The Woh Raas Nahi Aaye, =) __________ Jinhein Chaha Woh Saath Nahi Aaye =) )   ___________ <3    ~{{ 3:) (^^^) O:) Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3)"
+ww= "3:) __________ <3 Zindagi Badi Ajeeb Si Ho Gayi Hai =) ) ,       Jo Musafir The Woh Raas Nahi Aaye, =) __________ Jinhein Chaha Woh Saath Nahi Aaye =) )   ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3)"
 
 
-ee= "O:) _____________ <3 Kitna Wakif Thi Woh meri Kamjori Se,          Wo Ro Deti Thi Aur Main Har Jata Tha.     =) )   ___________ <3    ~{{ 3:) (^^^) O:) Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3 "
+ee= "O:) _____________ <3 Kitna Wakif Thi Woh meri Kamjori Se,          Wo Ro Deti Thi Aur Main Har Jata Tha.     =) )   ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3 "
 
 
-tt= "(Y) ___________ <3 Bas Ek Mera Hi Haath Nahi Thama Usne, =) _______ Varna Girte Huye Kitne Hi Sambhale Usne.=) )   ___________ <3    ~{{ 3:) (^^^) O:) Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
+tt= "(Y) ___________ <3 Bas Ek Mera Hi Haath Nahi Thama Usne, =) _______ Varna Girte Huye Kitne Hi Sambhale Usne.=) )   ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
 
 
-yy= "(y) ____________ <3 Usne Dekha Hi Nahi Apni Hatheli Ko Kabhi =) ,              Usmein Ek Halki Si Lakeer Meri Bhi Thi. =)  ___________ <3    ~{{ 3:) (^^^) O:) Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
+yy= "(y) ____________ <3 Usne Dekha Hi Nahi Apni Hatheli Ko Kabhi =) ,              Usmein Ek Halki Si Lakeer Meri Bhi Thi. =)  ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3"
 
 
-op= "3:) ____________ <3 Aisa Kya Likhun Ki Tere Dil Ko Tasalli Ho Jaye =) ,        Kya Yeh Batana Kafi Nahi Ki Meri Zindgi Ho Tum  =)  ___________ <3    ~{{ 3:) (^^^) O:) Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3 :V <3 -- (Y)"
+op= "3:) ____________ <3 Aisa Kya Likhun Ki Tere Dil Ko Tasalli Ho Jaye =) ,        Kya Yeh Batana Kafi Nahi Ki Meri Zindgi Ho Tum  =)  ___________ <3    ~{{ 3:) (^^^) O:) #Unstoppable____Fucker____Boii____xD 3:)  (y)   <3 }}~ <3 :V <3 -- (Y)"
 
 
 
@@ -172,4 +175,4 @@ def auto_post():
 if __name__ == '__main__':
     auto_post()
     print ("COMM3NT S3NT DON3!\n")
-    
+    #J4T1N SINGH
